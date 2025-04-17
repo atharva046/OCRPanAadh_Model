@@ -1,4 +1,3 @@
-Here’s a clean, professional ✅ **`README.md`** for your Aadhaar + PAN OCR extraction project with MongoDB, FastAPI, and Tailwind UI.
 
 ---
 
